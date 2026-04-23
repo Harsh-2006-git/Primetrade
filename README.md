@@ -13,6 +13,13 @@ PrimetradeAI is a full-stack MERN application designed for efficient task manage
 - **🎨 Modern UI**: Built with React 19, Vite, and Tailwind CSS 4 for a premium, high-performance user experience.
 
 ---
+<img width="1908" height="912" alt="image" src="https://github.com/user-attachments/assets/5a3b4740-9cc3-4957-b458-2f687c9f483b" />
+<img width="1913" height="905" alt="image" src="https://github.com/user-attachments/assets/74192a30-e143-44a6-a757-45a20ab53825" />
+<img width="1909" height="904" alt="image" src="https://github.com/user-attachments/assets/477efa19-00e0-4b5f-be83-3a4db6f46585" />
+<img width="1912" height="909" alt="image" src="https://github.com/user-attachments/assets/a0362837-3b32-4652-abf9-29aa4f7a8862" />
+<img width="1911" height="920" alt="image" src="https://github.com/user-attachments/assets/7659539e-aff5-4e97-8dc8-20117ea580b1" />
+<img width="1909" height="900" alt="image" src="https://github.com/user-attachments/assets/fc4f64bb-6a80-499a-bc78-3c78e3da806e" />
+
 
 ## 🛠️ Tech Stack
 
